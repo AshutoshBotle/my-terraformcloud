@@ -23,7 +23,7 @@ variable "my_region" {
   default = "ap-south-1"
 }
 variable "access_key" { }
-variable "secret key" { }
+variable "secret_key" { }
 variable "my_ami" {
   type = string
   default = "ami-041ad17e36c87b683"
